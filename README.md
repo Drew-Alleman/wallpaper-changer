@@ -8,7 +8,7 @@ Coming Soon!
 A huge part of this script is [Wal](https://github.com/dylanaraps/wal). This is used to change the color scheme of the wallpaper. 
 
 
-## Instalation
+## Instalation 🔨 
 ```bash
 git clone https://github.com/Drew-Alleman/wallpaper-changer/
 cd wallpaper-changer
@@ -16,7 +16,10 @@ cd wallpaper-changer
 ```
 Now open your favorite text editor and change the variable WALLPAPER_DIR to the correct directory.
 
-## Usage
+## Usage 
 ```bash
 python3 wallpaper_changer.py
 ```
+
+## Recent Updates 🎉
+N/A
