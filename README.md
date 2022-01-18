@@ -1,4 +1,4 @@
-# wallpaper-changer
+# wallpaper-changer v1.0.0
 Sets the wallpaper to a random image and utilizes the tool wal to apply a matching color scheme to the terminal
 
 # Quick Links ⚡
