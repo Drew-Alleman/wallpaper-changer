@@ -3,6 +3,7 @@ Sets the wallpaper to a random image and utilizes the tool wal to apply a matchi
 
 # Quick Links ⚡
  [Instalation, ](#instalation) [Usage, ](#usage) and [Recent Updates 🎉](#recent_updates)
+
 ## Preview
 Coming Soon!
 
@@ -26,3 +27,12 @@ python3 wallpaper_changer.py
 <a name="recent_updates"></a>
 ## Recent Updates 🎉
 N/A
+
+## Compatiblity
+According to the pwall installation guide the following terminals do not support pywal.
+* Konsole      [Issue](https://github.com/dylanaraps/pywal/issues/24)
+* Hyper        [Issue](https://github.com/vercel/hyper/issues/2038)
+* Terminal App 
+* Terminology  [Issue](https://github.com/dylanaraps/pywal/issues/50)
+* st.
+
