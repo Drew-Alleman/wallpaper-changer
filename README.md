@@ -1,4 +1,4 @@
-# wallpaper-changer v1.0.0
+# wallpaper-changer v2.0.0
 Sets the wallpaper to a random image and utilizes the tool wal to apply a matching color scheme to the terminal
 
 # Quick Links ⚡
@@ -7,32 +7,28 @@ Sets the wallpaper to a random image and utilizes the tool wal to apply a matchi
 ## Preview
 Coming Soon!
 
-## Wal 
-A huge part of this script is [Wal](https://github.com/dylanaraps/wal). This is used to change the color scheme of the wallpaper. 
-
 <a name="instalation"></a>
 ## Instalation 🔨 
 ```bash
 git clone https://github.com/Drew-Alleman/wallpaper-changer/
 cd wallpaper-changer
 ./setup.sh
+[sudo] password for drew: 
+[?] Directory to pull wallpaper images: /home/drew/Wallpaper/
+
 ```
 Now open your favorite text editor and change the variable WALLPAPER_DIR to the correct directory.
 
 <a name="usage"></a>
 ## Usage 
 ```bash
-python3 wallpaper_changer.py
+./wpc
 ```
 <a name="recent_updates"></a>
 ## Recent Updates 🎉
-N/A
+* Switched from wal to pywal
+* Fixed issue where it would switch the wallpaper to the current wallpaper
 
 ## Compatiblity
-According to the pwall installation guide the following terminals do not support pywal.
-* Konsole      [Issue](https://github.com/dylanaraps/pywal/issues/24)
-* Hyper        [Issue](https://github.com/vercel/hyper/issues/2038)
-* Terminal App 
-* Terminology  [Issue](https://github.com/dylanaraps/pywal/issues/50)
-* st.
+Currently only Gnome is supported
 
