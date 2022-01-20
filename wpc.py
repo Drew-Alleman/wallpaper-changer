@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+VERSION = "2.0.0"
+
 import os
 from os import listdir
 from os.path import isfile, join
