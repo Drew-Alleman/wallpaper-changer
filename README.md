@@ -17,8 +17,6 @@ cd wallpaper-changer
 [?] Directory to pull wallpaper images: /home/drew/Wallpaper/
 
 ```
-Now open your favorite text editor and change the variable WALLPAPER_DIR to the correct directory.
-
 <a name="usage"></a>
 ## Usage 
 ```bash
