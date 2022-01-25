@@ -3,7 +3,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install python3
 sudo apt install python3-pip
-pip3 install pywal
+pip3 install -r requirements.txt
 sudo mkdir /etc/opt/wallpaper_changer/
 sudo -k chmod u+x wpc.py 
 sudo cp  wpc.py /usr/local/bin/wpc.py
