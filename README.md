@@ -12,6 +12,7 @@ Coming Soon!
 ```bash
 git clone https://github.com/Drew-Alleman/wallpaper-changer/
 cd wallpaper-changer
+pip3 install pywal
 chmod u+x setup.sh
 ./setup.sh
 
