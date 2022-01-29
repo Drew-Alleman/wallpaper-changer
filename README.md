@@ -12,13 +12,13 @@ Coming Soon!
 ```bash
 git clone https://github.com/Drew-Alleman/wallpaper-changer/
 cd wallpaper-changer
-pip3 install pywal
 chmod u+x setup.sh
 ./setup.sh
 
 [sudo] password for drew: 
 [?] Directory to pull wallpaper images: /home/drew/Wallpaper/
 
+pip3 install pywal
 ```
 <a name="usage"></a>
 ## Usage 
